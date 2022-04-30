@@ -36,7 +36,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 💠 Host the bot on your computer
 
---> https://github.com/MsGsuite/CloneBot
+--> https://www.heroku.com/deploy
 <br/><br/>
 
 ## 📱 Run the bot on your phone using termux
